@@ -9,4 +9,4 @@ Frontent:
 * React 18
 * Bootstrap 5
 
-The interaction of the systems takes place using RESTFull API.
+The interaction of the systems takes place using REST API.
