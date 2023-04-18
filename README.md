@@ -2,7 +2,7 @@
 Backend:
 * ASP.NET Core 6.0 Web API
 * Entity Framework Core 6.0.8
-* Local MSSQL Server
+* MSSQL Server
 * Swagger
 
 Frontent:
